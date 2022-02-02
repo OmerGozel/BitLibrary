@@ -1,0 +1,8 @@
+﻿  BitLibrary.cpp
+c:\users\ömer\source\repos\bitlib\bitlib\bitlibrary.cpp(10): warning C4273: 'rCom': inconsistent dll linkage
+  c:\users\ömer\source\repos\bitlib\bitlib\bitlibrary.h(43): note: see previous definition of 'rCom'
+c:\users\ömer\source\repos\bitlib\bitlib\bitlibrary.cpp(33): warning C4273: 'wCom': inconsistent dll linkage
+  c:\users\ömer\source\repos\bitlib\bitlib\bitlibrary.h(44): note: see previous definition of 'wCom'
+c:\users\ömer\source\repos\bitlib\bitlib\bitlibrary.cpp(51): warning C4273: 'rComStr': inconsistent dll linkage
+  c:\users\ömer\source\repos\bitlib\bitlib\bitlibrary.h(42): note: see previous definition of 'rComStr'
+  BitLib.vcxproj -> C:\Users\Ömer\source\repos\BitLib\Debug\BitLib.dll
